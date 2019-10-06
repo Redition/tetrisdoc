@@ -1,0 +1,17 @@
+DOKUMENTÁCIÓ A TETRIS BATTLE ROYAL JÁTÉKHOZ
+
+
+A Játék egy 10x20 darab négyzetből álló pályán játszódik.
+Ezek a négyzetek különböző színű kockákat tartalmazhatnak.
+A kockák többedmagukkal, formákat alkotva felülről kerülnek a pályára.
+A formák mozgását a játékos irányítja.
+Miután a forma földet ér, a játékos egy újabb formát kap.
+
+A játék célja, hogy egyetlen kocka se maradjon a pályán.
+A kockákat soronként lehet eltűntetni, ha kirakunk egy sort,
+a sor kiesik a pályáról.
+
+A játékot több játékos játsza.
+Az a játékos nyeri a játékot, amelyik legelőször eltűnteti
+az összes kockáját.
+
