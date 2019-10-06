@@ -14,4 +14,8 @@ a sor kiesik a pályáról.
 A játékot több játékos játsza.
 Az a játékos nyeri a játékot, amelyik legelőször eltűnteti
 az összes kockáját.
+Az a játékos nyer aki utoljára marad úgy, hogy nem érte el a lerakandó kocka a képernyő tetejét. //LM.
 
+Játékbeli mechanika hogy kapsz egy ellenfelet, akinek ha a saját képernyődön eltüntetsz egy sort
+azt átadja az éppen aktuális ellenfél játékterére 1 lyukkal.
+Annyi könnyebbség van benne hogyha több ilyen sor is van akkor a lyuk ugyan ott lesz. // LM
